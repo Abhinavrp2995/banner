@@ -9,3 +9,22 @@ body{
     height: 750px;
     color: white;
 }
+.nav-bar{
+    position: absolute;
+    top: 0%;
+    color: white;
+    width: 100%;
+    background-color:black;
+    padding:10px 20px ;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-bar a{
+ color: white;
+text-decoration: none;
+margin: 0 10px;
+font-weight: bold;
+}
+.nav-bar a:hover{
+    text-decoration: underline;
+}
