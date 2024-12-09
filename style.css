@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+.banner{
+    position: relative;
+    background-image: url(https://m.media-amazon.com/images/M/MV5BZjI2NGQxMGMtYzQ5Mi00NTBjLWJhYzktMjE2ZDkxOTU3YWZjXkEyXkFqcGc@._V1_.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 750px;
+    color: white;
+}
